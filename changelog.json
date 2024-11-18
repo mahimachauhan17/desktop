@@ -1,5 +1,6 @@
 {
   "releases": {
+    "3.4.10-test2": ["For accessibility audit"],
     "3.4.10-beta1": [
       "[Added] Add \"View Pull Request on GitHub\" Option to the Checked-Out Branch Button and Pull Requests List - #19453. Thanks @DylanDevelops!",
       "[Fixed] Add aria-labelledby and aria-describedby attributes to \"Show whitespace changes?\" popover - #19518",
